@@ -19,7 +19,7 @@ into this:
 
 ```dart
 RichTextComposer(
-  text: "The forecast for today is @type with a high of @high",
+  text: "The forecast for today is @weatherType with a high of @high",
   richTextBuilders: [
     RichTextPatternBuilder(
       pattern: RegExp('@weatherType'),
