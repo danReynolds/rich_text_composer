@@ -40,7 +40,7 @@ RichTextComposer(
         required matchIndex,
         required startIndex,
       }) {
-        return TextSpan(text: weatherType, style: TextStyle(color: Colors.red));
+        return TextSpan(text: high, style: TextStyle(color: Colors.red));
       },
     ),
   ],
