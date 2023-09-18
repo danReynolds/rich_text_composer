@@ -1,7 +1,7 @@
 name: rich_text_composer
 description: A composer for building RichText widgets by pattern matching.
 version: 0.0.1
-homepage:
+homepage: https://github.com/danReynolds/rich_text_composer
 
 environment:
   sdk: '>=3.1.0 <4.0.0'
